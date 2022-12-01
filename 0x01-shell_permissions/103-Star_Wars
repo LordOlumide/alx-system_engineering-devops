@@ -1,2 +1,2 @@
 #!/bin/bash
-xdg-open starwars-episode-VI
+telnet towel.blinkenlights.nl
